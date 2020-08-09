@@ -1,0 +1,14 @@
+{
+  "name": "ejericicios200624request",
+  "version": "1.0.0",
+  "description": "Ejericio1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacobo Zonana",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
